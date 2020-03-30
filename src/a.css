@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+.root{
+    -fx-font-size: 11pt;
+    -fx-font-family: "Times New Roman";
+    -fx-background: black
+}
+.button{
+-fx-background-color: linear-gradient(to right, rgb(226, 167, 255), rgb(47, 102, 255));
+ -fx-text-fill: white;
+}
+#head
+{
+	-fx-font-family: 'Lobster', cursive;
+	-fx-font-size: 60 ;
+	-fx-fill: linear-gradient(to right, rgb(47, 102, 255), rgb(226, 167, 255));
+	-fx-position: fixed;
+	-fx-stroke-width: 2;	
+}
+#sel
+{
+	  -fx-font-size: 15pt;
+}
